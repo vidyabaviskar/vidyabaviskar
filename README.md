@@ -1,20 +1,19 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Vidya Baviskar</h1>
 <h3 align="center">A passionate Fullstack Developer and GenAI enthusiast</h3>
 
-- 🔭 I’m currently working on **A customised Chatbot using Langchain**
+ 🔭 I’m currently working on **A customised Chatbot using Langchain**
 
-- 🌱 I’m currently learning **MERN stack, Mastering Chatgpt and Gen AI**
+ 🌱 I’m currently learning **MERN stack, Mastering Chatgpt and Gen AI**
 
-- 👯 I’m looking to collaborate on **Genrative AI Projects**
+ 👯 I’m looking to collaborate on **Genrative AI Projects**
 
-- 🤝 I’m looking for help with **AI and ML**
+ 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **React, Firebase, HTML, CSS, Tailwind, avascript, Python**
+ 💬 Ask me about **React, Firebase, HTML, CSS, Tailwind, Javascript, Python**
 
-- 📫 How to reach me **vidyabaviskar11@gmail.com**
+ 📫 How to reach me **vidyabaviskar11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vidyabaviskar/details/experience/](https://www.linkedin.com/in/vidyabaviskar/details/experience/)
+ 📄 Know about my experiences [https://www.linkedin.com/in/vidyabaviskar/details/experience/](https://www.linkedin.com/in/vidyabaviskar/details/experience/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
